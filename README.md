@@ -12,6 +12,6 @@ This repository contains a Jupyter Notebook implementation of **Gaussian Mixture
 - GMM.ipynb → Main notebook with GMM implementation and visualizations
 
 ##  Requirements
-Install dependencies using:
+Install dependencies using: 
 ```bash
 pip install numpy matplotlib scikit-learn
