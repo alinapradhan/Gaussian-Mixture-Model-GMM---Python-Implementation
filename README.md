@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook implementation of **Gaussian Mixture
 ## Features 
 - Implementation of GMM from scratch and/or using scikit-learn
 - Visualization of clusters and probability density
-- Example on synthetic/sample datasets
+- Example on synthetic/sample datasets 
 - Useful for unsupervised learning and density estimation tasks
 
 ## File Structure
