@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook implementation of **Gaussian Mixture
 - Useful for unsupervised learning and density estimation tasks
 
 ## File Structure
-- GMM.ipynb → Main notebook with GMM implementation and visualizations
+- GMM.ipynb → Main notebook with GMM implementation and visualizations 
 
 ##  Requirements
 Install dependencies using: 
